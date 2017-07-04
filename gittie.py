@@ -1,6 +1,9 @@
 def introduce():
     print("Hello,I'm Gittie, again and again!")
 
+def shout():
+    print("SHOUT!")
+    
 def add(a, b):
     return a + b
 
