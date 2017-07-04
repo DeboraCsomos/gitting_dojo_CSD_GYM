@@ -9,3 +9,6 @@ def add(a, b):
 
 def joke():
     print("What do you call a fish with no eyes? A fsh.")
+
+def shout():
+    print ("SHOUT SOMETHING")
